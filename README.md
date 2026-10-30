@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This project analyzes ApnoMart's sales data to understand sales performance, profitability, regional trends, and customer purchasing behavior. An interactive Power BI dashboard was developed to help identify business opportunities and support data-driven decisions.
+This project analyzes ApnoMart's sales data to understand sales performance, profitability, regional trends, and customer purchasing behavior. An interactive Power BI dashboard was developed to identify business opportunities and support data-driven decisions.
 
 ## Key Business Insights
 
@@ -22,9 +22,9 @@ Review Electronics discounting strategies through a controlled pilot and monitor
 
 ## Project Files
 
+- `dashboard.png` — Dashboard screenshot.
 - `insights.pdf` — Strategic insights and recommendations.
 - `ApnoMart_Business_Intelligence_Dashboard.pbix` — Power BI source file.
-- `dashboard.png` — High-resolution dashboard screenshot (to be added).
 
 ## Advanced Features
 
@@ -34,4 +34,5 @@ Review Electronics discounting strategies through a controlled pilot and monitor
 - Multi-page dashboard.
 
 ---
+
 Created by **Indukuri Lavanya** | ApnoAI Data Analytics Intern | October 2026
